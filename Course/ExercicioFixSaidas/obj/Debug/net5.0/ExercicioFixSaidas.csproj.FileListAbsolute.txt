@@ -1,0 +1,16 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\bin\Debug\net5.0\ExercicioFixSaidas.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\bin\Debug\net5.0\ExercicioFixSaidas.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\bin\Debug\net5.0\ExercicioFixSaidas.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\bin\Debug\net5.0\ExercicioFixSaidas.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\bin\Debug\net5.0\ExercicioFixSaidas.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\bin\Debug\net5.0\ref\ExercicioFixSaidas.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\bin\Debug\net5.0\ExercicioFixSaidas.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.csproj.AssemblyReference.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ref\ExercicioFixSaidas.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\Course\ExercicioFixSaidas\obj\Debug\net5.0\ExercicioFixSaidas.genruntimeconfig.cache
