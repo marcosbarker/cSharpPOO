@@ -1,0 +1,16 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\bin\Debug\net5.0\LarguraAlturaTreiangulo.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\bin\Debug\net5.0\LarguraAlturaTreiangulo.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\bin\Debug\net5.0\LarguraAlturaTreiangulo.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\bin\Debug\net5.0\LarguraAlturaTreiangulo.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\bin\Debug\net5.0\LarguraAlturaTreiangulo.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\bin\Debug\net5.0\ref\LarguraAlturaTreiangulo.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\bin\Debug\net5.0\LarguraAlturaTreiangulo.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.csproj.AssemblyReference.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\ref\LarguraAlturaTreiangulo.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\LarguraAlturaTreiangulo\LarguraAlturaTreiangulo\obj\Debug\net5.0\LarguraAlturaTreiangulo.genruntimeconfig.cache
