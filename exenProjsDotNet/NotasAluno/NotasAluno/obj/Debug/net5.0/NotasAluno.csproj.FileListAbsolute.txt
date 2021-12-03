@@ -1,0 +1,15 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\bin\Debug\net5.0\NotasAluno.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\bin\Debug\net5.0\NotasAluno.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\bin\Debug\net5.0\NotasAluno.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\bin\Debug\net5.0\NotasAluno.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\bin\Debug\net5.0\NotasAluno.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\bin\Debug\net5.0\ref\NotasAluno.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\bin\Debug\net5.0\NotasAluno.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\NotasAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\NotasAluno.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\NotasAluno.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\NotasAluno.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\NotasAluno.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\ref\NotasAluno.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\NotasAluno.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NotasAluno\NotasAluno\obj\Debug\net5.0\NotasAluno.genruntimeconfig.cache
