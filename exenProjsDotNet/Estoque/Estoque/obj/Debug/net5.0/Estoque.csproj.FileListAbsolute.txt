@@ -1,0 +1,16 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\bin\Debug\net5.0\Estoque.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\bin\Debug\net5.0\Estoque.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\bin\Debug\net5.0\Estoque.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\bin\Debug\net5.0\Estoque.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\bin\Debug\net5.0\Estoque.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\bin\Debug\net5.0\ref\Estoque.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\bin\Debug\net5.0\Estoque.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\ref\Estoque.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.genruntimeconfig.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\Estoque\Estoque\obj\Debug\net5.0\Estoque.csproj.AssemblyReference.cache

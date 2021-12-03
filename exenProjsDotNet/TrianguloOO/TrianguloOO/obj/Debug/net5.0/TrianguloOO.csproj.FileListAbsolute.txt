@@ -1,0 +1,16 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.csproj.AssemblyReference.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\bin\Debug\net5.0\TrianguloOO.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\bin\Debug\net5.0\TrianguloOO.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\bin\Debug\net5.0\TrianguloOO.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\bin\Debug\net5.0\TrianguloOO.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\bin\Debug\net5.0\TrianguloOO.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\bin\Debug\net5.0\ref\TrianguloOO.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\bin\Debug\net5.0\TrianguloOO.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\ref\TrianguloOO.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\TrianguloOO\TrianguloOO\obj\Debug\net5.0\TrianguloOO.genruntimeconfig.cache

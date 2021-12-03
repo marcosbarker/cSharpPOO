@@ -1,0 +1,15 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\bin\Debug\net5.0\NomeIdadePessoa.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\bin\Debug\net5.0\NomeIdadePessoa.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\bin\Debug\net5.0\NomeIdadePessoa.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\bin\Debug\net5.0\NomeIdadePessoa.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\bin\Debug\net5.0\NomeIdadePessoa.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\bin\Debug\net5.0\ref\NomeIdadePessoa.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\bin\Debug\net5.0\NomeIdadePessoa.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\NomeIdadePessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\NomeIdadePessoa.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\NomeIdadePessoa.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\NomeIdadePessoa.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\NomeIdadePessoa.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\ref\NomeIdadePessoa.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\NomeIdadePessoa.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\NomeIdadePessoa\NomeIdadePessoa\obj\Debug\net5.0\NomeIdadePessoa.genruntimeconfig.cache

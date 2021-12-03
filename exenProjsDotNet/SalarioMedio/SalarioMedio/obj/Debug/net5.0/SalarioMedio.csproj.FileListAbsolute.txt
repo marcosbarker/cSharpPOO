@@ -1,0 +1,15 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\bin\Debug\net5.0\SalarioMedio.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\bin\Debug\net5.0\SalarioMedio.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\bin\Debug\net5.0\SalarioMedio.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\bin\Debug\net5.0\SalarioMedio.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\bin\Debug\net5.0\SalarioMedio.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\bin\Debug\net5.0\ref\SalarioMedio.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\bin\Debug\net5.0\SalarioMedio.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\SalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\SalarioMedio.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\SalarioMedio.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\SalarioMedio.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\SalarioMedio.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\ref\SalarioMedio.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\SalarioMedio.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\SalarioMedio\SalarioMedio\obj\Debug\net5.0\SalarioMedio.genruntimeconfig.cache
