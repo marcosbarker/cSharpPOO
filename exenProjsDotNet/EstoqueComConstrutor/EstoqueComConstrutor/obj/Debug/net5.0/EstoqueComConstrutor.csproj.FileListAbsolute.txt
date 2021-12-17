@@ -1,0 +1,16 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.csproj.AssemblyReference.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\bin\Debug\net5.0\EstoqueComConstrutor.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\bin\Debug\net5.0\EstoqueComConstrutor.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\bin\Debug\net5.0\EstoqueComConstrutor.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\bin\Debug\net5.0\EstoqueComConstrutor.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\bin\Debug\net5.0\EstoqueComConstrutor.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\bin\Debug\net5.0\ref\EstoqueComConstrutor.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\bin\Debug\net5.0\EstoqueComConstrutor.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\ref\EstoqueComConstrutor.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueComConstrutor\EstoqueComConstrutor\obj\Debug\net5.0\EstoqueComConstrutor.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueGetSet", "EstoqueGetSet\EstoqueGetSet.csproj", "{B177395E-AD91-4EF6-858F-043A237BB68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B177395E-AD91-4EF6-858F-043A237BB68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B177395E-AD91-4EF6-858F-043A237BB68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B177395E-AD91-4EF6-858F-043A237BB68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B177395E-AD91-4EF6-858F-043A237BB68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49805386-CCAD-427E-81BA-FC765CFB779A}
+	EndGlobalSection
+EndGlobal

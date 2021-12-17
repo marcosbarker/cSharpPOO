@@ -1,0 +1,15 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\EstoqueProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\EstoqueProperties.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\EstoqueProperties.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\EstoqueProperties.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\bin\Debug\net5.0\EstoqueProperties.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\bin\Debug\net5.0\EstoqueProperties.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\bin\Debug\net5.0\EstoqueProperties.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\bin\Debug\net5.0\EstoqueProperties.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\bin\Debug\net5.0\EstoqueProperties.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\bin\Debug\net5.0\ref\EstoqueProperties.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\bin\Debug\net5.0\EstoqueProperties.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\EstoqueProperties.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\ref\EstoqueProperties.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\EstoqueProperties.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueProperties\EstoqueProperties\obj\Debug\net5.0\EstoqueProperties.genruntimeconfig.cache

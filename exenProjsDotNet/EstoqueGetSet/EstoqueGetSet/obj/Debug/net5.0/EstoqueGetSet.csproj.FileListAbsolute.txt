@@ -1,0 +1,16 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.csproj.AssemblyReference.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\bin\Debug\net5.0\EstoqueGetSet.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\bin\Debug\net5.0\EstoqueGetSet.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\bin\Debug\net5.0\EstoqueGetSet.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\bin\Debug\net5.0\EstoqueGetSet.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\bin\Debug\net5.0\EstoqueGetSet.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\bin\Debug\net5.0\ref\EstoqueGetSet.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\bin\Debug\net5.0\EstoqueGetSet.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\ref\EstoqueGetSet.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\EstoqueGetSet\EstoqueGetSet\obj\Debug\net5.0\EstoqueGetSet.genruntimeconfig.cache
