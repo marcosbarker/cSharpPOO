@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Globalization;
 
 namespace ContaBancaria
@@ -19,19 +15,24 @@ namespace ContaBancaria
             NomeTitular = nomeTitular ?? throw new ArgumentNullException(nameof(nomeTitular));
         }
 
-        public ContaMovimentacao(int numeroConta, string nomeTitular, double saldo) : this(numeroConta, nomeTitular)
+        public ContaMovimentacao(int numeroConta, string nomeTitular, double depositoInicial) : this(numeroConta, nomeTitular)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
         }
 
-        public override int GetHashCode()
+        public void Deposito(double quantia)
         {
-            return base.GetHashCode();
+            Saldo += quantia;
+        }
+
+        public void Saque(double quantia)
+        {
+            Saldo -= quantia + 5.0;
         }
 
         public override string ToString()
         {
-            return "Conta " 
+            return "Conta "
                     + NumeroConta
                     + ", Titular: "
                     + NomeTitular

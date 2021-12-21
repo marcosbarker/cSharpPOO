@@ -20,7 +20,7 @@ namespace ContaBancaria
             char resposta = char.Parse(Console.ReadLine());
             if (resposta == 's' || resposta == 'S')
             {
-                Console.WriteLine("Entre com o valor de deposito inicial: ");
+                Console.Write("Entre com o valor de deposito inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                 cm = new ContaMovimentacao(numero, titular, depositoInicial);
@@ -34,8 +34,27 @@ namespace ContaBancaria
             Console.WriteLine("Dados da conta: ");
             Console.WriteLine(cm);
 
+            Console.WriteLine();
 
-            
+            Console.Write("Entre com um valor para depostito: ");
+            double deposito = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            cm.Deposito(deposito);
+
+            Console.WriteLine();
+
+            Console.Write("Dados atualizados: ");
+            Console.WriteLine(cm);
+
+            Console.WriteLine();
+
+            Console.Write("Entre com um valor para saque: ");
+            double saque = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            cm.Saque(saque);
+
+            Console.WriteLine();
+
+            Console.Write("Dados atualizados: ");
+            Console.WriteLine(cm);
         }
     }
 }
