@@ -1,0 +1,16 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.exe
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.deps.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.dev.json
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ref\ContaBancaria.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ref\ContaBancaria.dll
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.pdb
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exProposto\ContaBancaria\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.genruntimeconfig.cache
