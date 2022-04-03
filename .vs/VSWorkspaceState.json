@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\exProposto"
+    "\\exenProjsDotNet",
+    "\\exenProjsDotNet\\EstoqueGetSet",
+    "\\exenProjsDotNet\\EstoqueGetSet\\EstoqueGetSet",
+    "\\exenProjsDotNet\\List-insercao-e-update",
+    "\\exenProjsDotNet\\List-insercao-e-update\\List-insercao-e-update",
+    "\\exenProjsDotNet\\NomeIdadePessoa\\NomeIdadePessoa"
   ],
+  "SelectedNode": "\\exenProjsDotNet\\List-insercao-e-update\\List-insercao-e-update\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

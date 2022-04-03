@@ -1,0 +1,2 @@
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\List-insercao-e-update\List-insercao-e-update\obj\Debug\List-insercao-e-update.csproj.AssemblyReference.cache
+C:\Users\MarcosPauloMarquesCo\Desktop\Curso CSharo Nelio\repos\exenProjsDotNet\List-insercao-e-update\List-insercao-e-update\obj\Debug\List-insercao-e-update.csproj.CoreCompileInputs.cache

@@ -40,6 +40,8 @@ public class Programa
 
             Console.WriteLine("Quarto: ");
             int quarto = int.Parse(Console.ReadLine());
+
+
             vetor[quarto] = new Estudante(nome, email);
         }
 
